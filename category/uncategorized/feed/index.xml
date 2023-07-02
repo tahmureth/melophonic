@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; ملوفونیک | جامعه‌ی موسیقی الکترونیک و هنر دیجیتال</title>
+	<atom:link href="http://localhost/category/uncategorized/feed/?simply_static_page=67" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sun, 02 Jul 2023 14:21:17 +0000</lastBuildDate>
+	<language>fa-IR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2023/07/Melophonic-150x150.webp</url>
+	<title>Uncategorized &#8211; ملوفونیک | جامعه‌ی موسیقی الکترونیک و هنر دیجیتال</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>شماره اول پادکست موسیقی الکترونیک ملوفونیک</title>
+		<link>./../../../hello-world/index.html</link>
+					<comments>./../../../hello-world/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 01 Jul 2023 07:13:05 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1</guid>
+
+					<description><![CDATA[این یک متن تستی است :)) این یک بلوک محتوای نوشته است، که همهٔ بلوک‌ها را در هر نوشتهٔ تکی یا برگه نمایش خواهد داد. این ممکن است یک چیدمان ساده مانند بندهای پیاپی در یک نوشتهٔ وبلاگ، یا یک ترکیب پیچیده‌تر شامل گالری تصاویر، فیلم‌ها، جداول، ستون‌ها و هر نوع بلوک دیگری باشد. اگر [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>این یک متن تستی است :))</p>
+
+
+
+<p>این یک بلوک محتوای نوشته است، که همهٔ بلوک‌ها را در هر نوشتهٔ تکی یا برگه نمایش خواهد داد.</p>
+
+
+
+<p>این ممکن است یک چیدمان ساده مانند بندهای پیاپی در یک نوشتهٔ وبلاگ، یا یک ترکیب پیچیده‌تر شامل گالری تصاویر، فیلم‌ها، جداول، ستون‌ها و هر نوع بلوک دیگری باشد.</p>
+
+
+
+<p>اگر انواع نوشتهٔ سفارشی در سایت شما ثبت شده باشد، بلوک محتوای نوشته می‌تواند محتویات آن ورودی‌ها را نیز نمایش دهد.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../hello-world/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
